@@ -9,3 +9,7 @@
 * Record all entered data
 * Implementation of the progress bar
 * Highlighting the frame for radio and checkboxes
+
+![Screenshot](Screenshot_1.png)
+
+![Screenshot](Screenshot_2.png)
