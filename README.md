@@ -10,6 +10,6 @@
 * Implementation of the progress bar
 * Highlighting the frame for radio and checkboxes
 
-![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot1.png)
 
-![Screenshot](Screenshot_2.png)
+![Screenshot](Screenshot2.png)
