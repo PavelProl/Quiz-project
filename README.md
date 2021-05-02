@@ -1,8 +1,9 @@
-# Quiz project in _vanilla JS_
+# Quiz project on _pure JS_
 
-## My work was on JS part
 ## What is done:
 
+
+* Bootstrap and JavaScript
 * Functionality of moving on cards, forward and backward
 * Check for data entry (validate)
 * Receiving (collecting) data from cards
