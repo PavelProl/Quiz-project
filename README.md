@@ -1,16 +1,10 @@
-# Quiz project on _pure JS_
+# Quiz
 
 ## What is done:
 
-
-* Bootstrap and JavaScript
+* JavaScript:
 * Functionality of moving on cards, forward and backward
-* Check for data entry (validate)
-* Receiving (collecting) data from cards
-* Record all entered data
-* Implementation of the progress bar
-* Highlighting the frame for radio and checkboxes
-
-![Screenshot](Screenshot1.png)
+* Checking of data entry
+* Progress bar
 
 ![Screenshot](Screenshot2.png)
